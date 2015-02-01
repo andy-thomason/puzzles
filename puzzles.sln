@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.22310.1
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "puzzle1", "puzzle1\puzzle1.vcxproj", "{A9E82131-7CE6-463E-BCF1-03751078ED0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "puzzle2", "puzzle2\puzzle2.vcxproj", "{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{A9E82131-7CE6-463E-BCF1-03751078ED0B}.Release|Win32.Build.0 = Release|Win32
 		{A9E82131-7CE6-463E-BCF1-03751078ED0B}.Release|x64.ActiveCfg = Release|x64
 		{A9E82131-7CE6-463E-BCF1-03751078ED0B}.Release|x64.Build.0 = Release|x64
+		{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}.Debug|Win32.Build.0 = Debug|Win32
+		{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}.Debug|x64.ActiveCfg = Debug|Win32
+		{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}.Release|Win32.ActiveCfg = Release|Win32
+		{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}.Release|Win32.Build.0 = Release|Win32
+		{FBAA9A4F-C0A7-43BA-8972-8F9F269F7857}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
